@@ -1,5 +1,5 @@
 message reverted
-overrite
+over write
 
 fetch remote
 
